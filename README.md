@@ -4,6 +4,8 @@
 - Este é um mini projeto desenvolvido em Python usando Programação Orientada a Objetos (POO) para simular uma máquina de café.
 
 
+
+
 🚀 **Funcionalidades**
 
 ✅ Escolha entre diferentes tipos de café: Expresso, Latte e Cappuccino
@@ -19,11 +21,15 @@
 ✅ Exibe relatório dos recursos disponíveis
 
 
+
+
 🛠️ **Tecnologias Utilizadas**
 
 🔹 Python 3.13 🐍
  
 🔹 Programação Orientada a Objetos (POO) 🏗️
+
+
 
 
 🎮 **Como Rodar o Projeto?**
@@ -40,6 +46,8 @@
  
 - python main.py
 
+
+
   
 🤖 **Estrutura do Código**
 	- O código segue o paradigma de POO, e contém as seguintes classes:
@@ -49,6 +57,8 @@
 📌 MenuItem – Representa o menu e faz verificações
  
 📌 MoneyMachine – Manipula pagamentos e troco
+
+
 
 
 🔥 Feito com carinho e café! ☕💻
