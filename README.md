@@ -1,45 +1,42 @@
-# 🏆 Máquina de Café em Python (POO)
+# 🏆 Coffee Machine in Python (OOP)  
 
-- Bem-vindo ao projeto Máquina de Café! ☕💻 
-- Este é um mini projeto desenvolvido em Python usando Programação Orientada a Objetos (POO) para simular uma máquina de café.
+- Welcome to the **Coffee Machine** project! ☕💻  
+- This is a **mini project** developed in Python using **Object-Oriented Programming (OOP)** to simulate a coffee machine.  
 
------
+---  
 
-🚀 **Funcionalidades**
+🚀 **Features**  
 
-✅ Escolha entre diferentes tipos de café: Espresso, Latte e Vanilla
+✅ Choose from different coffee types: **Espresso, Latte, and Vanilla**  
 
-✅ Verificação de recursos disponíveis (água, leite e café) antes de preparar a bebida
- 
-✅ Aceita moedas para realizar a compra
+✅ Checks available resources (**water, milk, and coffee**) before making a drink  
 
-✅ Calcula troco (se necessário)
+✅ Accepts **coins** for purchasing coffee  
 
-✅ Atualiza os ingredientes após cada compra
+✅ Calculates **change** (if needed)  
 
-✅ Exibe relatório dos recursos disponíveis
+✅ Updates **ingredient levels** after each purchase  
 
------
+✅ Displays a **report** of available resources  
 
-🛠️ **Tecnologias Utilizadas**
+---  
 
-🔹 Python 3.13 🐍
- 
-🔹 Programação Orientada a Objetos (POO) 🏗️
+🛠️ **Technologies Used**  
 
------
-  
-🤖 **Estrutura do Código**
+🔹 **Python 3.13** 🐍  
 
-- O código segue o paradigma de POO, e contém as seguintes classes:
- 
-📌 CoffeeMaker – Gerencia os recursos, pedidos e relatórios
- 
-📌 MenuItem – Representa o menu e faz verificações
- 
-📌 MoneyMachine – Manipula pagamentos e troco
+🔹 **Object-Oriented Programming (OOP)** 🏗️  
 
+---  
 
------
+🤖 **Code Structure**  
 
-🔥 Feito com carinho e café! ☕💻
+The project follows the **OOP paradigm** and includes the following classes:  
+
+📌 **CoffeeMaker** – Manages resources, orders, and reports  
+
+📌 **MenuItem** – Represents the menu and performs validations  
+
+📌 **MoneyMachine** – Handles payments and change  
+
+---
